@@ -47,7 +47,7 @@ public class Persona {
         return persona.getNome().equals(nome) && persona.getCognome().equals(cognome) && persona.getIndirizzo().equals(indirizzo);
     }
 
-    public void printString() {
-        System.out.println("Nome: " + nome + " Cognome: " + cognome + " Indirizzo: " + indirizzo + " Numero di telefono: " + numeroTelefono);
+    public String printString() {
+        return "Nome: " + nome + "\nCognome: " + cognome + "\nIndirizzo: " + indirizzo + "\nNumero di telefono: " + numeroTelefono;
     }
 }
