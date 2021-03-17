@@ -1,0 +1,14 @@
+Benvenuti...
+Parco auto Bugatti
+1-Ingresso nuova auto(Specificare la posizione)
+2-Uscita auto(Specificare numero telaio)
+3-Ricerca auto(Specificare postazione)
+4-Calcolo peso totale vetture(Specificare numero telaio)
+5-Calcolo volume serbatoio(Specificare postazione)
+6-Esci
+Inserisci la scelta: 
+6
+Inserisci la posizione: dInserisci la marca: 34Inserisci il numero di telaio: Inserisci il modello: Inserisci il peso a vouto: 
+Autovettura aggiunta con successo!
+Inserisci la posizione: 2Inserisci la marca: asdInserisci il numero di telaio: Inserisci il modello: Inserisci il peso a vouto: 
+Autovettura aggiunta con successo!
