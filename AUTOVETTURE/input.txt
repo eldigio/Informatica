@@ -1,2 +1,0 @@
-Bugatti A52f Chiron AreaPescara2 500 260 false
-Bugatti F44g Divo AreaChieti7 470 250 true
