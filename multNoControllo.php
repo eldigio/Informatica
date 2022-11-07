@@ -9,7 +9,7 @@
     <title><?php echo "index.php"; ?></title>
 </head>
 
-<body">
+<body>
 
     <?php
         
